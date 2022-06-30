@@ -10,7 +10,7 @@ public class EmployeeWage {
 		static final int WorkingDayInMonth = 20;
 		static final int WorkingHourPerMonth = 100;
 
-		public static void main(String[] args) {
+		public void emp() {
 			/**
 			 * initializing values 
 			 * putting condition of total 100 hours or 20 days
